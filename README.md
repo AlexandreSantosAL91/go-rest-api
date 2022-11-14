@@ -1,2 +1,2 @@
-<h2 align="center">Codando uma REST API utilizando a linguagem Go</h2> 
+<h2 align="center">Criando uma REST API com Go</h2> 
 
