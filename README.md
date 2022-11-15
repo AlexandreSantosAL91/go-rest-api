@@ -1,2 +1,2 @@
-<h2 align="center">Testan REST API em Go</h2> 
+<h2 align="center">Testando REST API em Go</h2> 
 
