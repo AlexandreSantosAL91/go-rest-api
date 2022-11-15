@@ -32,16 +32,16 @@ func getUsers(w http.ResponseWriter, r *http.Request) {
 	json.NewEncoder(w).Encode([]User{
 		{
 			ID:   1,
-			Name: "Estrela 1.0",
+			Name: "João",
 		},
 
 		{
 			ID:   1,
-			Name: "Estrela 2.0",
+			Name: "Carlos",
 		},
 		{
 			ID:   3,
-			Name: "Estrela 2.0",
+			Name: "Davi",
 		},
 	})
 }
